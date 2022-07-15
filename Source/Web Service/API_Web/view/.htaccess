@@ -1,0 +1,1 @@
+RewriteRule ^([a-zA-Z0-9_-]{9,12}+)/([a-zA-Z0-9]{23,24}+)/([a-zA-Z0-9]{23,24}+)$ reset.php?u=$1&coa=$2&cob=$3

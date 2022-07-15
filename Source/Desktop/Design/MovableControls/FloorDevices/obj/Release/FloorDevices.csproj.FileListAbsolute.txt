@@ -1,0 +1,4 @@
+D:\Projects\Prototypes\MovableControls\FloorDevices\bin\Release\ForeRunners.Devices.Design.dll
+D:\Projects\Prototypes\MovableControls\FloorDevices\bin\Release\ForeRunners.Devices.Design.pdb
+D:\Projects\Prototypes\MovableControls\FloorDevices\obj\Release\ForeRunners.Devices.Design.dll
+D:\Projects\Prototypes\MovableControls\FloorDevices\obj\Release\ForeRunners.Devices.Design.pdb

@@ -1,0 +1,12 @@
+D:\Projects\Prototypes\Calendar\Calendar\bin\Debug\Calendar.exe.config
+D:\Projects\Prototypes\Calendar\Calendar\bin\Debug\Calendar.exe
+D:\Projects\Prototypes\Calendar\Calendar\bin\Debug\Calendar.pdb
+D:\Projects\Prototypes\Calendar\Calendar\bin\Debug\MetroFramework.Design.dll
+D:\Projects\Prototypes\Calendar\Calendar\bin\Debug\MetroFramework.dll
+D:\Projects\Prototypes\Calendar\Calendar\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects\Prototypes\Calendar\Calendar\obj\Debug\Calendar.csprojResolveAssemblyReference.cache
+D:\Projects\Prototypes\Calendar\Calendar\obj\Debug\Calendar.Form1.resources
+D:\Projects\Prototypes\Calendar\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+D:\Projects\Prototypes\Calendar\Calendar\obj\Debug\Calendar.csproj.GenerateResource.Cache
+D:\Projects\Prototypes\Calendar\Calendar\obj\Debug\Calendar.exe
+D:\Projects\Prototypes\Calendar\Calendar\obj\Debug\Calendar.pdb

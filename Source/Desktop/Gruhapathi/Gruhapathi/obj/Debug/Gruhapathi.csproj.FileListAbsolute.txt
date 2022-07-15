@@ -1,0 +1,65 @@
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\Gruhapathi.exe.config
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\Gruhapathi.exe
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\Gruhapathi.pdb
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\ForeRunners.Data.dll
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\MetroFramework.Design.dll
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\MetroFramework.dll
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\MetroFramework.Fonts.dll
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\RestSharp.dll
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\Newtonsoft.Json.dll
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\ForeRunners.Data.pdb
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\ForeRunners.GUI.Controls.pdb
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\RestSharp.xml
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\Newtonsoft.Json.xml
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.ControlPanel.DeviceDetails.resources
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.ControlPanel.Devices.resources
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.ControlPanel.GruSys.resources
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.ControlPanel.Rooms.resources
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.ControlPanel.Security.resources
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.ControlPanel.Settings.resources
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.ControlPanel.Summary.resources
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.ControlPanel.Usage.resources
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.Properties.Resources.resources
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.SignIn.resources
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.StartUp.resources
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.csproj.GenerateResource.Cache
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.exe
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.pdb
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.csprojResolveAssemblyReference.cache
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.Dialogs.RoomAddDialog.resources
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.Dialogs.DeviceAddDialog.resources
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\QRCoder.dll
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\UnityEngine.dll
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.Dialogs.DateInputDialog.resources
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\Gruhapathi.exe.config
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.exe
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.pdb
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\Gruhapathi.exe
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\Gruhapathi.pdb
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\ForeRunners.Data.dll
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\MetroFramework.Design.dll
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\MetroFramework.dll
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\MetroFramework.Fonts.dll
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\QRCoder.dll
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\UnityEngine.dll
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\RestSharp.dll
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\Newtonsoft.Json.dll
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\ForeRunners.Data.pdb
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\RestSharp.xml
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\bin\Debug\Newtonsoft.Json.xml
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.csprojResolveAssemblyReference.cache
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.ControlPanel.DeviceDetails.resources
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.ControlPanel.Devices.resources
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.ControlPanel.GruSys.resources
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.ControlPanel.Rooms.resources
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.ControlPanel.Security.resources
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.ControlPanel.Settings.resources
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.ControlPanel.Summary.resources
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.ControlPanel.Usage.resources
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.Dialogs.DateInputDialog.resources
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.Dialogs.DeviceAddDialog.resources
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.Dialogs.RoomAddDialog.resources
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.Properties.Resources.resources
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.SignIn.resources
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.StartUp.resources
+d:\Documents\NSBM\Year 3\PRCO303 Final Stage Computing Project\Software\Desktop\Gruhapathi\Gruhapathi\obj\Debug\Gruhapathi.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+D:\Projects\Prototypes\MovableControls\MovableControls\bin\Debug\MovableControls.exe.config
+D:\Projects\Prototypes\MovableControls\MovableControls\bin\Debug\MovableControls.exe
+D:\Projects\Prototypes\MovableControls\MovableControls\bin\Debug\MovableControls.pdb
+D:\Projects\Prototypes\MovableControls\MovableControls\obj\Debug\MovableControls.csprojResolveAssemblyReference.cache
+D:\Projects\Prototypes\MovableControls\MovableControls\obj\Debug\MovableControls.Form1.resources
+D:\Projects\Prototypes\MovableControls\MovableControls\obj\Debug\MovableControls.Properties.Resources.resources
+D:\Projects\Prototypes\MovableControls\MovableControls\obj\Debug\MovableControls.csproj.GenerateResource.Cache
+D:\Projects\Prototypes\MovableControls\MovableControls\obj\Debug\MovableControls.exe
+D:\Projects\Prototypes\MovableControls\MovableControls\obj\Debug\MovableControls.pdb
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Design\MovableControls\MovableControls\bin\Debug\MovableControls.exe.config
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Design\MovableControls\MovableControls\obj\Debug\MovableControls.exe
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Design\MovableControls\MovableControls\obj\Debug\MovableControls.pdb
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Design\MovableControls\MovableControls\bin\Debug\MovableControls.exe
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Design\MovableControls\MovableControls\bin\Debug\MovableControls.pdb
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Design\MovableControls\MovableControls\obj\Debug\MovableControls.csprojResolveAssemblyReference.cache
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Design\MovableControls\MovableControls\obj\Debug\MovableControls.Form1.resources
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Design\MovableControls\MovableControls\obj\Debug\MovableControls.Properties.Resources.resources
+d:\Documents\NSBM\Year 3\Final Project\Software\Desktop\Design\MovableControls\MovableControls\obj\Debug\MovableControls.csproj.GenerateResource.Cache

@@ -1,0 +1,2 @@
+D:\Projects\Prototypes\MovableControls\FloorDevices\bin\Debug\ForeRunners.Devices.Design.dll
+D:\Projects\Prototypes\MovableControls\FloorDevices\obj\Debug\ForeRunners.Devices.Design.dll

@@ -1,0 +1,7 @@
+D:\Projects\Prototypes\Calendar\Calender\bin\Debug\ForeRunners.GUI.Controls.dll
+D:\Projects\Prototypes\Calendar\Calender\bin\Debug\ForeRunners.GUI.Controls.pdb
+D:\Projects\Prototypes\Calendar\Calender\bin\Debug\MetroFramework.Design.dll
+D:\Projects\Prototypes\Calendar\Calender\bin\Debug\MetroFramework.dll
+D:\Projects\Prototypes\Calendar\Calender\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects\Prototypes\Calendar\Calender\obj\Debug\ForeRunners.GUI.Controls.dll
+D:\Projects\Prototypes\Calendar\Calender\obj\Debug\ForeRunners.GUI.Controls.pdb

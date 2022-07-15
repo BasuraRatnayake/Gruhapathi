@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/API/view/altlogin/get_pc_altlogin.php</file>
+            <file>file:/C:/xampp/htdocs/API/view/udevice/update_udevice.php</file>
+            <file>file:/C:/xampp/htdocs/API/view/udevice/update_udevice_power.php</file>
+            <file>file:/C:/xampp/htdocs/API/view/usage/get_usage.php</file>
+            <file>file:/C:/xampp/htdocs/API/view/view_house.php</file>
+            <file>file:/C:/xampp/htdocs/API/view/device/get_device.php</file>
+            <file>file:/C:/xampp/htdocs/API/view/device/update_device.php</file>
+            <file>file:/C:/xampp/htdocs/API/controller/tokens_inc.php</file>
+            <file>file:/C:/xampp/htdocs/API/view/authenticate.php</file>
+            <file>file:/C:/xampp/htdocs/API/view/altlogin/add_altlogin.php</file>
+        </group>
+    </open-files>
+</project-private>

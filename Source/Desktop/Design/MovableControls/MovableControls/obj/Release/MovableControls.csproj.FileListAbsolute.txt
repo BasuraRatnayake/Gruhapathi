@@ -1,0 +1,9 @@
+D:\Projects\Prototypes\MovableControls\MovableControls\bin\Release\MovableControls.exe.config
+D:\Projects\Prototypes\MovableControls\MovableControls\bin\Release\MovableControls.exe
+D:\Projects\Prototypes\MovableControls\MovableControls\bin\Release\MovableControls.pdb
+D:\Projects\Prototypes\MovableControls\MovableControls\obj\Release\MovableControls.Form1.resources
+D:\Projects\Prototypes\MovableControls\MovableControls\obj\Release\MovableControls.Properties.Resources.resources
+D:\Projects\Prototypes\MovableControls\MovableControls\obj\Release\MovableControls.csproj.GenerateResource.Cache
+D:\Projects\Prototypes\MovableControls\MovableControls\obj\Release\MovableControls.exe
+D:\Projects\Prototypes\MovableControls\MovableControls\obj\Release\MovableControls.pdb
+D:\Projects\Prototypes\MovableControls\MovableControls\obj\Release\MovableControls.csprojResolveAssemblyReference.cache
